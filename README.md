@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://wordwanderertranslator.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> <br>
+<b>Demo Video URL :</b> https://drive.google.com/drive/u/1/folders/1Jb2cuv0AcHyrg_a8BHv-ALez0UyhfwpT <br>
 <b>Github Repository URL :</b> https://github.com/PriyankaGangane/WordWanderer <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
