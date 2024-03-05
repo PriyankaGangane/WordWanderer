@@ -1,8 +1,8 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://wordwanderer.azurewebsites.net/">Multiple languages Content Hub - WordWanderer Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://wordwanderertranslator.azurewebsites.net/">Multiple languages Content Hub - WordWanderer Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://wordwanderer.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://wordwanderertranslator.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> <br>
 <b>Github Repository URL :</b> https://github.com/PriyankaGangane/WordWanderer <br>
 <b>Industry :</b> Lifestyle and Technology<br>
@@ -66,4 +66,4 @@ The Multiple languages Content Hub redefines language connectivity by using seam
 <p align="justify">
 <b>As we conclude, the Multiple languages Content Hub is more than just an application; it represents a continuous exploration of boundless communication opportunities. In this age of global connectivity, this initiative signifies a crucial stride towards a more inclusive and interconnected world.</b>
 </p> <br>
-</h2><b><a href="https://wordwanderer.azurewebsites.net/"> Multiple languages Content Hub - WordWanderer Translation Web App using Azure AI Translation Service.</b></a>
+</h2><b><a href="https://wordwanderertranslator.azurewebsites.net/"> Multiple languages Content Hub - WordWanderer Translation Web App using Azure AI Translation Service.</b></a>
